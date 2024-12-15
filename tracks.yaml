@@ -1,4 +1,4 @@
-release_repo_url: git@github.com:revyos-ros/novatel_gps_driver-release
+release_repo_url: git@github.com:revyos-ros/novatel_gps_driver-release.git
 tracks:
   dashing:
     actions:
